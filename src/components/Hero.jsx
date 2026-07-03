@@ -83,7 +83,8 @@ export default function Hero() {
           </a>
 
           <a
-            href="#"
+            href="/ehsan_afzal_CV.pdf"
+            download="Ehsan_Afzal_CV.pdf"
             id="hero-download-resume"
             className="group px-8 py-3.5 border border-neutral-800 bg-neutral-900/50 hover:bg-neutral-800 text-neutral-300 hover:text-white font-medium rounded-xl transition-all duration-300 hover:-translate-y-0.5"
           >
