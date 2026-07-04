@@ -87,8 +87,9 @@ export default function About() {
             </p>
 
             {/* Stats */}
-            <div className="grid grid-cols-3 gap-4 pt-4">
+            <div className="grid grid-cols-2 gap-4 pt-4">
               {[
+                { num: '5', label: 'Months Professional Experience' },
                 { num: '3+', label: 'Projects Built' },
                 { num: '3+', label: 'Tech Stacks' },
                 { num: '1+', label: 'Years Coding' },

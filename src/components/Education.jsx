@@ -59,7 +59,7 @@ export default function Education() {
                 </div>
 
                 <p className="text-neutral-400 leading-relaxed text-sm sm:text-base mb-5">
-                  Completed a comprehensive four-year degree covering core software engineering principles, data structures & algorithms, object-oriented programming, database systems, software design & architecture, and web development. Built a strong academic foundation that directly supports building scalable, production-grade applications.
+                  Completed a Bachelor's degree in Software Engineering, combining theoretical knowledge with practical development experience. Worked on academic projects that strengthened software design, problem-solving, teamwork, and the ability to build reliable, maintainable applications.
                 </p>
 
                 {/* Key Subjects */}

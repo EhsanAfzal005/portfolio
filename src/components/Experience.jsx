@@ -6,7 +6,7 @@ const experiences = [
     title: 'Leveling Up: TypeScript & Testing',
     subtitle: 'Currently Exploring',
     description:
-      'Now diving into TypeScript to write safer, more maintainable code, and learning testing practices to build more reliable applications — moving toward writing code that\'s not just functional, but production-grade and well-verified.',
+      'Now diving into TypeScript to write safer, more maintainable code, and learning testing practices to build more reliable applications moving toward writing code that\'s not just functional, but production-grade and well-verified.',
     skills: ['TypeScript', 'Testing', 'Code Quality'],
     icon: (
       <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
@@ -33,7 +33,7 @@ const experiences = [
     title: 'Backend Development',
     subtitle: 'Deepening My Backend Skills',
     description:
-      'Focused on strengthening my backend fundamentals — building REST APIs, designing efficient database schemas, implementing secure authentication and authorization flows, and learning how to structure scalable, maintainable server-side applications with Node.js and Express.js.',
+      'Focused on strengthening my backend fundamentals building REST APIs, designing efficient database schemas, implementing secure authentication and authorization flows, and learning how to structure scalable, maintainable server-side applications with Node.js and Express.js.',
     skills: ['Node.js', 'Express.js', 'MongoDB', 'JWT Auth', 'REST APIs'],
     icon: (
       <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
