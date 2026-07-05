@@ -133,7 +133,7 @@ export default function Contact() {
             <div className="p-5 bg-neutral-900/30 border border-neutral-800 rounded-xl">
               <p className="text-sm text-neutral-400 leading-relaxed">
                 <span className="text-cyan-400 font-medium">Currently open</span> to
-                internship opportunities, freelance projects, and collaborative work.
+                full-time opportunities, freelance projects, and collaborative work.
                 Feel free to reach out!
               </p>
             </div>
