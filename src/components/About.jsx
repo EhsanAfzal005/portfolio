@@ -63,10 +63,10 @@ export default function About() {
             <div className="flex flex-col sm:flex-row gap-6 sm:gap-8 items-center mb-6">
               {/* Image Container */}
               <div className="relative w-48 h-48 sm:w-56 sm:h-56 flex-shrink-0 group">
-                <div className="absolute inset-0 bg-gradient-to-br from-cyan-400 to-emerald-400 rounded-2xl rotate-3 group-hover:rotate-6 transition-transform duration-500 opacity-50" />
-                <div className="absolute inset-0 bg-neutral-900 rounded-2xl overflow-hidden border border-neutral-700 group-hover:border-cyan-500/50 transition-colors duration-500 z-10">
+                <div className="absolute inset-0 bg-gradient-to-br from-cyan-400 to-emerald-400 rounded-full rotate-3 group-hover:rotate-6 transition-transform duration-500 opacity-50" />
+                <div className="absolute inset-0 bg-neutral-900 rounded-full overflow-hidden border border-neutral-700 group-hover:border-cyan-500/50 transition-colors duration-500 z-10">
                   <img
-                    src="/profile.jpeg"
+                    src="/profilepic.jpeg"
                     alt="Ehsan Afzal"
                     className="w-full h-full object-cover opacity-90 group-hover:opacity-100 group-hover:scale-105 transition-all duration-500"
                   />
