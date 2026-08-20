@@ -67,10 +67,7 @@ export default function Navbar() {
           onClick={(e) => handleLinkClick(e, '#hero')}
           className="group flex items-center gap-2"
         >
-          <div className="w-10 h-10 rounded-xl bg-neutral-900 border border-neutral-800 flex items-center justify-center text-white font-bold text-lg shadow-[0_0_15px_rgba(34,211,238,0.1)] group-hover:border-cyan-500/50 transition-colors duration-300">
-            E
-          </div>
-          <span className="text-white font-semibold text-lg tracking-tight hidden sm:block">
+          <span className="text-white font-bold text-xl tracking-tight">
             EA
           </span>
         </a>
